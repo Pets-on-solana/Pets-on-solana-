@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Comic Neue', cursive;
-    background: url('https://drive.google.com/uc?export=download&id=1Jc9DL1U_OVlr8gQXzMgEq4l92lRqb6m1') no-repeat center center fixed;
+    background: url('https://raw.githubusercontent.com/Pets-on-solana/pet-family-hub/main/whatsapp-image-2024-05-21-at-32754-pm.jpeg') no-repeat center center fixed;
     background-size: cover;
     color: white;
     text-align: center;
@@ -76,6 +76,7 @@ section {
     max-width: 1100px;
     margin: 0 auto;
     padding: 20px;
+    background: none; /* Prevent gray background */
 }
 
 #join {
